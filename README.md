@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌷 Hi there, I’m Rani! 🌷  
 
-<!--
-**Syahrani-arifudin/syahrani-arifudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ *Aspiring Data Analyst who loves turning numbers into stories!*  
 
-Here are some ideas to get you started:
+I’m currently learning **Python, SQL, and data analysis** to explore how data can tell meaningful stories.  
+Still at the beginning of my journey — but excited to build my first mini projects and grow step by step 💪💖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Learning
+🐍 Python (Pandas, NumPy)  
+📊 Power BI & Excel  
+🗄️ SQL  
+🎨 Data Visualization Basics  
+
+---
+
+### ☕ A Little About Me
+💻 Informatics student from Yogyakarta, Indonesia  
+🌸 Love clean datasets and pretty dashboards  
+📚 Always curious to learn something new  
+🎶 Music and coffee keep me focused!  
+
+---
+
+### 📫 Let’s Connect!
+💼 [LinkedIn](https://www.linkedin.com/in/rani-arifudin/)  
+📧 [Email me!](ranisyahrani013@gmail.com)  
+
+---
+
+> 🌈 *“Every dataset has a story — I’m here to find and share it.”*
