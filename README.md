@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrani-arifudin&theme=dark&hide_border=true&background=0D1117&ring=45D08A&fire=F0954A&currStreakLabel=45D08A" />
-</p>
-
----
-
 ### 🎧 Selagi Ngoding
 
 <p align="center">
